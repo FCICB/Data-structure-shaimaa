@@ -8,10 +8,12 @@
     
  **Users Level
  - *These are activities which Users can do :*   
-   - Display all List
+   - Display All List
    - Search Using Key  
-   - Insert First and Insert Last
+   - Insert First And Insert Last
    - Delete Node
+   - Distroy All List
+   - -Check List Is Empty Or Not 
    - Exit From System  
 
 
