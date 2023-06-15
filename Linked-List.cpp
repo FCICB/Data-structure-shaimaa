@@ -5,16 +5,7 @@ using namespace std;
 int main()
 {
     LinkedList list;
-    /*
-    int item;
-    cout << "Enter Item" << endl;
-    cin >> item;
-    list.insertFirst(item);
-    list.display();
-    if (list.isEmpty())
-        cout << "list Is Empty";
-    else
-        cout << "list contain element" << list.Size() << endl;*/
+    
     while (true)
     {
         cout << "Menue \n"
