@@ -1,0 +1,3 @@
+﻿  shell-sort.cpp
+C:\Users\AM\Desktop\Data Structure\shell-sort\shell-sort.cpp(19,49): warning C4101: 'i': unreferenced local variable
+  shell-sort.vcxproj -> C:\Users\AM\Desktop\Data Structure\shell-sort\x64\Debug\shell-sort.exe
